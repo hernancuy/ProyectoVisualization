@@ -2,7 +2,7 @@ console.log('Is this working?');
 let viz;
 
 //Add Share Link to Tableau Public in here
-const url = "https://prod-useast-a.online.tableau.com/t/isis4822visualanalytics/views/ProyectoFinal/Cancerunacondicinsindistincin_1?:origin=card_share_link&:embed=n";
+const url = "https://public.tableau.com/views/ProyectoFinal_v2022_2/Cancerunacondicinsindistincin?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link";
 const vizContainer = document.getElementById('vizContainer');
 const options = {
     hideTabs: true,
