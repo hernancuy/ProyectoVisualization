@@ -2,7 +2,7 @@ console.log('Is this working?');
 let viz;
 
 //Add Share Link to Tableau Public in here
-const url = "https://prod-useast-a.online.tableau.com/t/isis4822visualanalytics/views/ProyectoFinal/Cancerunacondicinsindistincin_1/af4e8a80-b620-499f-a13c-4acbdc47e4e0/726f97fe-4035-4920-ae9e-ffa113fdf093";
+const url = "https://prod-useast-a.online.tableau.com/t/isis4822visualanalytics/views/ProyectoFinal/Cancerunacondicinsindistincin_1?:origin=card_share_link&:embed=n";
 const vizContainer = document.getElementById('vizContainer');
 const options = {
     hideTabs: true,
