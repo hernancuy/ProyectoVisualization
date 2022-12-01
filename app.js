@@ -2,7 +2,7 @@ console.log('Is this working?');
 let viz;
 
 //Add Share Link to Tableau Public in here
-const url = "https://prod-useast-a.online.tableau.com/t/isis4822visualanalytics/views/ProyectoFinal/Localizacion?:origin=card_share_link&:embed=n";
+const url = "https://prod-useast-a.online.tableau.com/t/isis4822visualanalytics/views/ProyectoFinal/Localizacion?:origin=card_share_link&:embed=n   ";
 
 const vizContainer = document.getElementById('vizContainer');
 const options = {
