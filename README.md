@@ -7,7 +7,7 @@
 
 - Storytelling | [Cancer, una condición sin distinción en Github pages](https://hernancuy.github.io/ProyectoVisualization/)
 
-- Dashboard | [Dashboard en Tableau Public](https://prod-useast-a.online.tableau.com/#/site/isis4822visualanalytics/views/ProyectoFinal_v2022_2eeeeeee/Dashboard5?:iid=3)
+- Dashboard | [Dashboard en Tableau Public](https://public.tableau.com/views/ISIS4822_VisualAnalytics_Proyecto-cncerdemama_Dashboard/Cancerunacondicinsindistincin?:language=es-ES&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -70,8 +70,6 @@ El objetivo es utilizar estos datos de pacientes para analizar la evolución tan
 
 ## Mockups iniciales y bocetos
 
-<!-- TODO -->
-
 Para este proyecto se realizaron diferentes maquetados y prototipos, inicialmente pensando en la interacción directa que el cliente deseaba tener sobre la herramienta y segundo sobre el tipo de visualización que mejor mostrara los datos a obtener.
 
 ![Wireframe1](https://user-images.githubusercontent.com/60525731/205504943-3f5fa751-4650-433f-b398-e35a0caa3117.JPG)
@@ -79,10 +77,25 @@ Para este proyecto se realizaron diferentes maquetados y prototipos, inicialment
 La idea inicial era con el modismo de barras verticales mostrar los diferentes tipos de desenlaces, este gráfico tendría interactividad seleccionando el tipo de deselance requerido mostraría la información relevante o relacionada en los modismos inferiores.
 
 ![Wireframe2](https://user-images.githubusercontent.com/60525731/205505313-8bf08bfe-b228-4b0e-8ddb-e5ba6eb7e1a5.JPG)
+
 El mockup inicial se realizó directamente con la herramienta Figma, en él se visualiza al lado izquierdo los filtros que en su momento el usuario requiera realizar, al lado derecho se encuentran los diferentes modismos para graficar la información. 
 
+![Mockup1](https://user-images.githubusercontent.com/60525731/205505402-33c0c7aa-c9cb-4c6c-be8c-57177d8cca11.JPG)
 
+Para la segunda iteracion, se decidió mostrar mejoras como los titulos de cada gráfica y los filtros comparativos.
 
+![Mockup2](https://user-images.githubusercontent.com/60525731/205505704-a94e269a-bef6-476d-87d9-0c9020e25def.JPG)
+
+Tambien se definió los modismos para las gráficas dependentes y como se mostrarían los resultados.
+
+![Mockup3](https://user-images.githubusercontent.com/60525731/205505775-20e59b9c-3b29-47ec-abbc-ec7839a915a9.JPG)
+
+Para la tercera iteracion, creamos el modelo funcional con el conjunto de datos real realizado en tableau. Para este prototipo faltaba 
+la integracion de los filtros.
+
+![Dashboard](https://user-images.githubusercontent.com/60525731/205507628-143cd33f-d257-4f0d-8e44-e912da199107.JPG)
+
+Para la ultima iteracion se genero un dashboard interactivo, en el cual se visualiza totalmente los datos con sus filtros tales como rango de fecha y desenlace clinico.
 
 ## Insights y feedback obtenidos con la herramienta[^3]
 
@@ -104,4 +117,3 @@ El mockup inicial se realizó directamente con la herramienta Figma, en él se v
 ## Manual de usuario
 
 <!--  con capturas y explicación de implementación final: qué ve el usuario final, cuáles son las pantallas y qué puede realizar (puede ser un video grabando la pantalla de la aplicación mientras una voz en off explica las funcionalidades) -->
-
