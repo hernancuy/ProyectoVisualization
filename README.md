@@ -29,7 +29,6 @@ El objetivo es utilizar estos datos de pacientes para analizar la evolución tan
 
 ## Bitácora de validación y prototipado
 
-<!-- TODO: qué validaciones realizaron a qué tipo de usuario y qué retroalimentación obtuvieron -->
 
 | Fecha      | Objetivo                                                                                     | Participantes                                                                                    |
 |------------|----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
@@ -45,7 +44,6 @@ El objetivo es utilizar estos datos de pacientes para analizar la evolución tan
 
 [^2]: _Debido al conflicto con el acuerdo de confidencialidad, se adicionaron tareas acordes a los insights obtenidos por el personal académico junto con las tareas planteadas originalmente_
 
-<!-- TODO: (WHY) -->
 
 ### Tareas planteadas originalmente
 
@@ -76,7 +74,7 @@ El objetivo es utilizar estos datos de pacientes para analizar la evolución tan
 
 ## Principios de diseño de visualización y codificación
 
-<!-- TODO: (HOW del framework de Tamara) -->
+![How](https://user-images.githubusercontent.com/60525731/205521586-cd683f02-5619-405a-88ac-2fa314432009.jpg)
 
 ## Mockups iniciales y bocetos
 
