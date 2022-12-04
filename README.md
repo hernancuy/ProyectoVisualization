@@ -31,6 +31,16 @@ El objetivo es utilizar estos datos de pacientes para analizar la evolución tan
 
 <!-- TODO: qué validaciones realizaron a qué tipo de usuario y qué retroalimentación obtuvieron -->
 
+| Fecha      | Objetivo                                                                                     | Participantes                                                                                    |
+|------------|----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| 24/10/2022 | Revision # 1 : Objetivos y   contextualización de proyecto.                                  | Usuario:       - Maria del Pilar Villamil      Estudiantes:      - Camilo Rozo      - Hernan Cuy |
+| 29/10/2022 | Revision # 2 : Definicion de   alcances                                                      | Usuario:       - Jose Tiberio Hernandez      Estudiantes:      - Camilo Rozo      - Hernan Cuy   |
+| 3/11/2022  | Revision # 3: Retroalimentación   cliente-estudiante Mockup N°1                              | Usuario:       - Estudiantes ISIS 4822      Estudiantes:      - Camilo Rozo      - Hernan Cuy    |
+| 24/11/2022 | Revision # 4: Verificación   Avances por correo electronico con usuario final segundo mockup | Usuario:       - Maria del Pilar Villamil      Estudiantes:      - Camilo Rozo      - Hernan Cuy |
+| 24/11/2022 | Revision # 5: Demostración clase   avance mockup n° 2                                        | Usuario:       - Estudiantes ISIS 4822      Estudiantes:      - Camilo Rozo      - Hernan Cuy    |
+|  1/12/2022 | Revision # 6: Verificación   prototipo funcional con usuario final                           | Usuario:       - Maria del Pilar Villamil      Estudiantes:      - Camilo Rozo      - Hernan Cuy |
+|  1/12/2022 | Revision # 5: Demostración clase   prototipo final.                                          | Usuario:       - Estudiantes ISIS 4822      Estudiantes:      - Camilo Rozo      - Hernan Cuy    |
+
 ## Tareas principales del proyecto[^2]
 
 [^2]: _Debido al conflicto con el acuerdo de confidencialidad, se adicionaron tareas acordes a los insights obtenidos por el personal académico junto con las tareas planteadas originalmente_
