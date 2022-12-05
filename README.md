@@ -97,9 +97,9 @@ la integracion de los filtros y organizar la disposición de los modismos.
 
 ![Mockup3](https://user-images.githubusercontent.com/60525731/205505775-20e59b9c-3b29-47ec-abbc-ec7839a915a9.JPG)
 
-Finalmente, para la ultima iteración se genero un dashboard interactivo, en el cual se visualiza totalmente los datos con sus filtros tales como rango de fecha y desenlace clinico.
+Finalmente, para la ultima iteración se genero un dashboard interactivo, en el cual se visualiza totalmente los datos con sus filtros tales como rango de fecha y desenlace clinico. Además se adicionó un storytelling por pertañas para ayudar al usuario inexperto a contextualizarse con ayuda de una narración y un caso relatado con un usuario Persona.
 
-![Dashboard](https://user-images.githubusercontent.com/60525731/205507628-143cd33f-d257-4f0d-8e44-e912da199107.JPG)
+- [Github pages](https://hernancuy.github.io/ProyectoVisualization/) | [Tableau Public](https://public.tableau.com/views/ISIS4822_VisualAnalytics_Proyecto-cncerdemama_Dashboard/Cancerunacondicinsindistincin?:language=es-ES&:display_count=n&:origin=viz_share_link)
 
 ## Insights y feedback obtenidos con la herramienta[^3]
 
@@ -111,7 +111,7 @@ Finalmente, para la ultima iteración se genero un dashboard interactivo, en el 
 - En los últimos 5 años previos al año actual del dataset, el número de pacientes que están en tratamiento ha aumentado en un 609.77% (de 133 a 944)
 - En comparación a lo anterior, la cantidad de pacientes que abandonan el tratamiento tuvo su pico un año antes del año actual del dataset con 40 abandonos, que se redujo a 10 en el año actual del dataset y en ambos casos no supera el 6% del total de pacientes en tratamiento (5.6% y 1.05%). Por lo que sí se percibe mejoría
 - El uso de una persona como Andrea Morales como ejemplo de paciente es muy útil para entender la información mostrada en el storytelling
-- El uso de la persona da pie a plantear ideas sobre cómo navegar desde el panorama general hacia el detalle de un paciente en particular.
+- El uso de la persona da pie a plantear ideas sobre cómo navegar desde el panorama general hacia el detalle de un paciente en particular
 
 ### Dashboard
 
