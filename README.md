@@ -5,9 +5,9 @@
 
 ---
 
-- Storytelling | [Cancer, una condición sin distinción en Github pages](https://hernancuy.github.io/ProyectoVisualization/)
+- Storytelling | [Cancer, una condición sin distinción | Github pages](https://hernancuy.github.io/ProyectoVisualization/)
 
-- Dashboard | [Dashboard en Tableau Public](https://public.tableau.com/views/ISIS4822_VisualAnalytics_Proyecto-cncerdemama_Dashboard/Cancerunacondicinsindistincin?:language=es-ES&:display_count=n&:origin=viz_share_link)
+- Dashboard | [Dashboard | Tableau Public](https://public.tableau.com/views/ISIS4822_VisualAnalytics_Proyecto-cncerdemama_Dashboard/Cancerunacondicinsindistincin?:language=es-ES&:display_count=n&:origin=viz_share_link)
 
 ---
 
