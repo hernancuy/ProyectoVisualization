@@ -103,7 +103,7 @@ la integracion de los filtros y organizar la disposición de los modismos.
 
 ![Mockup3](https://user-images.githubusercontent.com/60525731/205505775-20e59b9c-3b29-47ec-abbc-ec7839a915a9.JPG)
 
-Finalmente, ara la ultima iteracion se genero un dashboard interactivo, en el cual se visualiza totalmente los datos con sus filtros tales como rango de fecha y desenlace clinico.
+Finalmente, para la ultima iteración se genero un dashboard interactivo, en el cual se visualiza totalmente los datos con sus filtros tales como rango de fecha y desenlace clinico.
 
 ![Dashboard](https://user-images.githubusercontent.com/60525731/205507628-143cd33f-d257-4f0d-8e44-e912da199107.JPG)
 
