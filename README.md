@@ -80,30 +80,32 @@ El objetivo es utilizar estos datos de pacientes para analizar la evolución tan
 
 Para este proyecto se realizaron diferentes maquetados y prototipos, inicialmente pensando en la interacción directa que el cliente deseaba tener sobre la herramienta y segundo sobre el tipo de visualización que mejor mostrara los datos a obtener.
 
+### Primera iteración
+
+La idea inicial era con el modismo de barras verticales mostrar los diferentes tipos de desenlaces, este gráfico tendría interactividad seleccionando el tipo de deselance requerido mostraría la información relevante o relacionada en los modismos inferiores.En este, se visualiza al lado izquierdo los filtros que en su momento el usuario requiera realizar, al lado derecho se encuentran los diferentes modismos para graficar la información.
+
 ![Wireframe1](https://user-images.githubusercontent.com/60525731/205504943-3f5fa751-4650-433f-b398-e35a0caa3117.JPG)
 
-La idea inicial era con el modismo de barras verticales mostrar los diferentes tipos de desenlaces, este gráfico tendría interactividad seleccionando el tipo de deselance requerido mostraría la información relevante o relacionada en los modismos inferiores.
+[Wireframe completo | Figma](https://www.figma.com/proto/UG9fp2ht1vsIaCJOjQRBv7/Wireframe?page-id=0%3A1&node-id=1%3A3&viewport=766%2C257%2C0.23&scaling=scale-down&starting-point-node-id=1%3A3)
 
-![Wireframe2](https://user-images.githubusercontent.com/60525731/205505313-8bf08bfe-b228-4b0e-8ddb-e5ba6eb7e1a5.JPG)
+### Segunda iteración
 
-El mockup inicial se realizó directamente con la herramienta Figma, en él se visualiza al lado izquierdo los filtros que en su momento el usuario requiera realizar, al lado derecho se encuentran los diferentes modismos para graficar la información. 
+Para la segunda iteracion, se decidió mostrar mejoras como los titulos de cada gráfica y los filtros comparativos. Adicionalmente, se definieron los modismos para las gráficas dependientes y como se mostrarían los resultados.
 
 ![Mockup1](https://user-images.githubusercontent.com/60525731/205505402-33c0c7aa-c9cb-4c6c-be8c-57177d8cca11.JPG)
 
-Para la segunda iteracion, se decidió mostrar mejoras como los titulos de cada gráfica y los filtros comparativos.
+[Mockup Completo | Figma](https://www.figma.com/file/xMjwNqJZfp5Nl1xXYZ38GG/Mockup?node-id=0%3A1&t=jpyaiwAopy7wlerm-1)
 
-![Mockup2](https://user-images.githubusercontent.com/60525731/205505704-a94e269a-bef6-476d-87d9-0c9020e25def.JPG)
+### Tercera iteración y correcciones finales
 
-Tambien se definió los modismos para las gráficas dependentes y como se mostrarían los resultados.
+Para la tercera iteracion, creamos el modelo funcional con el conjunto de datos real realizado en tableau. Para este prototipo faltaba 
+la integracion de los filtros y organizar la disposición de los modismos.
 
 ![Mockup3](https://user-images.githubusercontent.com/60525731/205505775-20e59b9c-3b29-47ec-abbc-ec7839a915a9.JPG)
 
-Para la tercera iteracion, creamos el modelo funcional con el conjunto de datos real realizado en tableau. Para este prototipo faltaba 
-la integracion de los filtros.
+Finalmente, ara la ultima iteracion se genero un dashboard interactivo, en el cual se visualiza totalmente los datos con sus filtros tales como rango de fecha y desenlace clinico.
 
 ![Dashboard](https://user-images.githubusercontent.com/60525731/205507628-143cd33f-d257-4f0d-8e44-e912da199107.JPG)
-
-Para la ultima iteracion se genero un dashboard interactivo, en el cual se visualiza totalmente los datos con sus filtros tales como rango de fecha y desenlace clinico.
 
 ## Insights y feedback obtenidos con la herramienta[^3]
 
