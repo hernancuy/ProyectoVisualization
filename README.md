@@ -82,15 +82,11 @@ Para este proyecto se realizaron diferentes maquetados y prototipos, inicialment
 
 La idea inicial era con el modismo de barras verticales mostrar los diferentes tipos de desenlaces, este gráfico tendría interactividad seleccionando el tipo de deselance requerido mostraría la información relevante o relacionada en los modismos inferiores.En este, se visualiza al lado izquierdo los filtros que en su momento el usuario requiera realizar, al lado derecho se encuentran los diferentes modismos para graficar la información.
 
-![Wireframe1](https://user-images.githubusercontent.com/60525731/205504943-3f5fa751-4650-433f-b398-e35a0caa3117.JPG)
-
 [Wireframe completo | Figma](https://www.figma.com/proto/UG9fp2ht1vsIaCJOjQRBv7/Wireframe?page-id=0%3A1&node-id=1%3A3&viewport=766%2C257%2C0.23&scaling=scale-down&starting-point-node-id=1%3A3)
 
 ### Segunda iteración
 
 Para la segunda iteracion, se decidió mostrar mejoras como los titulos de cada gráfica y los filtros comparativos. Adicionalmente, se definieron los modismos para las gráficas dependientes y como se mostrarían los resultados.
-
-![Mockup1](https://user-images.githubusercontent.com/60525731/205505402-33c0c7aa-c9cb-4c6c-be8c-57177d8cca11.JPG)
 
 [Mockup Completo | Figma](https://www.figma.com/file/xMjwNqJZfp5Nl1xXYZ38GG/Mockup?node-id=0%3A1&t=jpyaiwAopy7wlerm-1)
 
