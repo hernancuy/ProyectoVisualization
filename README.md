@@ -136,4 +136,4 @@ El personal académico con el que se validaron las etapas del proyecto usaron es
 
 ## Manual de usuario
 
-<!--  con capturas y explicación de implementación final: qué ve el usuario final, cuáles son las pantallas y qué puede realizar (puede ser un video grabando la pantalla de la aplicación mientras una voz en off explica las funcionalidades) -->
+[Video de manual de usuario | Youtube](https://youtu.be/6RlYBRGwMJw)
