@@ -119,8 +119,20 @@ Para la ultima iteracion se genero un dashboard interactivo, en el cual se visua
 
 ### Dashboard
 
+- El layout del dashboard era confuso [corregido posterior a la validación]
+- Habría sido interesante filtrar por el tipo del desenlace del paciente [corregido posterior a la validación]
 - 22.25% de los pacientes (178 de 800) no cuenta con información geográfica alguna, lo que hace que el mapa represente de forma incompleta a pacientes ubicados en ciudades no principales.
 - Hay muy pocos datos de progresión para ser una variable tan importante, la máxima cantidad de registros se consiguieron un año antes del año actual del dataset, unicamente con 14 registros, lo que hace que el diagrama de líneas actual no sea representativo de la realidad.
+
+### General
+
+El personal académico con el que se validaron las etapas del proyecto usaron esta implemementación en Tableau como punto de partida para un posible replanteamiento de la implementación de la herramienta del cliente. Y en ese sentido se concluyó con lo siguiente:
+
+- El uso de Tableau para el proyecto puede ser inviable debido al costo de las licencias y a la diversidad de alternativas por las que las entidades de salud podrían tener preferencia.
+
+- El uso de Nivo en la herramenta del cliente ha causado limitaciones importantes a lo largo del desarrollo del mismo, por lo que, entre las alternativas de: continuar con nivo, migrar lo existente a D3/Vega/Tableau/PowerBI o mantener Nivo en su estado actual y continuar lo pendiente con D3/Vega/Tableau/PowerBI. La recomandación es mantener lo existente de Nivo, continuar con un intento en Vega/Vega-lite a manera de piloto y por último evaluar migrar lo existente en Nivo a Vega.  
+
+- Hay problemas de rendimiento con los datos en Tableau, este hallazgo es importante porque la implementación del proyecto del cliente, basada en web, tiene el rendimiento como prioridad. Por lo que vale la pena evaluar la composición de los datos para ver si es posible reducirlos de alguna manera.
 
 ## Manual de usuario
 
